@@ -1,12 +1,12 @@
 <div align="center">
-  
-# 👋 Hi, I'm Asim!
 
-### 🚀 AI Enthusiast | Developer | Tech Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Asim!&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+### 🚀 AI Enthusiast | Certified Developer | Tech Explorer
 
 [![GitHub followers](https://img.shields.io/github/followers/whoisasimmm?label=Follow&style=social)](https://github.com/whoisasimmm)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:160922748108@lords.ac.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:160922748108@lords.ac.in)
 
 </div>
 
@@ -29,6 +29,26 @@ class Asim:
 me = Asim()
 me.say_hi()
 ```
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Organization | 📅 Year |
+|-----------------|----------------|---------|
+| 🇲🇾 **Malaysia Two Week Program** | International Exchange | 2024 |
+| 🤖 **AIEEE Certificate** | All India Engineering Entrance | 2023 |
+| 🎯 **AI & ML Specialization** | Various Platforms | 2024 |
+
+</div>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=whoisasimmm&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -85,12 +105,22 @@ An intelligent agent that performs comprehensive research and generates professi
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisasimmm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoisasimmm&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=whoisasimmm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisasimmm&layout=compact&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisasimmm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=whoisasimmm&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoisasimmm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
 
 </div>
 
@@ -129,18 +159,22 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-### 💭 Quote of the Day
+### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/whoisasimmm/whoisasimmm/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/whoisasimmm/whoisasimmm/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=whoisasimmm&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=whoisasimmm&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
 **✨ Thanks for visiting! Star ⭐ my repos if you find them interesting!**
+
+*"Building the future, one line of code at a time"* 💻
 
 </div>
