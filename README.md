@@ -19,8 +19,14 @@ class Asim:
     def __init__(self):
         self.username = "whoisasimmm"
         self.role = "AI Developer & Researcher"
+        self.location = "🇮🇳 India"
+        self.education = "🎓 Lords University"
         self.interests = ["AI/ML", "Automation", "Research", "Innovation"]
         self.currently_learning = ["OpenAI APIs", "Agent Development", "Web Scraping"]
+        self.languages = {
+            "spoken": ["English", "Hindi", "Urdu"],
+            "programming": ["Python", "JavaScript", "SQL"]
+        }
         self.fun_fact = "I automate everything! 🤖"
     
     def say_hi(self):
@@ -29,6 +35,36 @@ class Asim:
 me = Asim()
 me.say_hi()
 ```
+
+---
+
+## 💻 Languages & Skills
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Skill Progress
+
+**Python Development** 
+![Python](https://geps.dev/progress/90?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
+
+**AI/ML & Deep Learning** 
+![AI](https://geps.dev/progress/85?dangerColor=FF6F00&warningColor=FF6F00&successColor=FF6F00)
+
+**Web Scraping & Automation** 
+![WebScraping](https://geps.dev/progress/80?dangerColor=00C853&warningColor=00C853&successColor=00C853)
+
+**Database Management** 
+![Database](https://geps.dev/progress/75?dangerColor=0091EA&warningColor=0091EA&successColor=0091EA)
+
+**API Development** 
+![API](https://geps.dev/progress/70?dangerColor=D500F9&warningColor=D500F9&successColor=D500F9)
+
+</div>
 
 ---
 
@@ -52,25 +88,44 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Languages
+### Core Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI/ML & Tools
+### AI/ML & Frameworks
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Development Tools
+### Development Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Web Technologies
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -128,19 +183,61 @@ An intelligent agent that performs comprehensive research and generates professi
 
 ## 🎯 What I'm Currently Working On
 
-- 🔬 Building AI agents for automation
-- 📚 Exploring advanced prompt engineering
-- 🤖 Developing intelligent research tools
-- 🌟 Contributing to open-source projects
+<div align="center">
+
+```mermaid
+mindmap
+  root((Asim's Focus))
+    AI Development
+      Research Agents
+      Automation Tools
+      LLM Integration
+    Learning
+      Advanced Prompting
+      Agent Architecture
+      Web Scraping
+    Projects
+      AI Research Agent
+      Data Analysis Tools
+      API Development
+```
+
+</div>
+
+- 🔬 Building AI agents for intelligent automation
+- 📚 Exploring advanced prompt engineering techniques
+- 🤖 Developing research tools powered by GPT-4
+- 🌟 Contributing to open-source AI projects
+- 📊 Creating data visualization dashboards
+
+---
+
+## 💡 Interests & Hobbies
+
+<div align="center">
+
+| 🎯 Professional | 🌟 Personal |
+|:---------------:|:-----------:|
+| 🤖 AI & Machine Learning | 📚 Reading Tech Blogs |
+| 💻 Automation & Scripting | 🎮 Gaming |
+| 🔬 Research & Innovation | 🎵 Music |
+| 📊 Data Analysis | ⚡ Exploring New Tech |
+| 🌐 Web Development | 🎨 Creative Coding |
+
+</div>
 
 ---
 
 ## 💡 Fun Facts
 
 - 🎓 Student at Lords University
-- ⚡ Always excited about new tech
+- 🇲🇾 Participated in Malaysia International Exchange Program
+- ⚡ Always excited about new tech and innovations
 - 🌱 Constantly learning and growing
-- 🎯 Goal: Automate the boring stuff!
+- 🎯 Goal: Automate the boring stuff and build intelligent systems!
+- 🏆 AIEEE Certified
+- 💻 Code by day, debug by night
+- 🚀 Believer in the power of AI to transform the world
 
 ---
 
